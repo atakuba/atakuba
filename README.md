@@ -1,56 +1,86 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atabek
-===============================================================================================================================================
+<div align="center">
 
-Software Engineer
------------------
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Atabek+(Ata)+%F0%9F%91%8B;Senior+QA+Test+Automation+Engineer;Java+%E2%80%A2+Selenium+%E2%80%A2+Cucumber+%E2%80%A2+REST+Assured;Spring+Boot+microservices+builder;Based+in+Chicago%2C+IL" alt="Typing intro" />
 
-Creative Software Engineer with over one year of commercial experience in cutting-edge web applications. Combines SOAP, REST, and Spring Framework development knowledge to create reliable, flexible solutions. Comfortable handling frontend and backend assets. Excellent reputation for resolving problems and improving customer satisfaction. Ready to enhance existing code or undertake full development lifecycles to produce efficient, effective web service solutions.
+<br/>
 
-* 🌍  I'm based in Chicago, Illinois
-* ✉️  You can contact me at [ataissakunov@gmail.com](mailto:ataissakunov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atabek-kubanychbek-uulu-7a9785223/)
+[![Email](https://img.shields.io/badge/Email-atakubanychbek%40gmail.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atakubanychbek@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/atakuba?style=for-the-badge&logo=github&color=a855f7&labelColor=1c1917)](https://github.com/atakuba?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=atakuba&style=for-the-badge&color=a855f7)
 
-<a href="https://www.github.com/Issakunov" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Issakunov?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+</div>
 
-### Skills
+---
 
+## 👨‍💻 About me
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" width="36" height="36" alt="Spring" /></a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.gif" width="36" height="36" alt="Hibernate" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="36" height="36" alt="Docker" /></a>
-   <a href="https://aws.amazon.com/ru/free/?trk=fce796e8-4ceb-48e0-9767-89f7873fac3d&sc_channel=ps&s_kwcid=AL!4422!3!592542020599!e!!g!!aws&ef_id=Cj0KCQjwkOqZBhDNARIsAACsbfLNmfBmnfQIgEAANwxl-Pr166TrKWMK_9XeqZ9YllAa066_IE7xNmMaArhzEALw_wcB:G:s&s_kwcid=AL!4422!3!592542020599!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="36" height="36" alt="AWS" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
+**Senior QA Test Automation Engineer** at **National Louis University** (Chicago) and a backend developer at heart. I design test automation frameworks that keep web apps and APIs honest, and I build the systems behind them — Java, Spring Boot, PostgreSQL, Kafka.
 
+- 🔭 **Currently:** lead architect of an internal helpdesk / ticketing platform built as Spring Boot microservices (identity, ticketing, BFF gateway) on PostgreSQL + Kafka
+- 🧪 **What I do:** UI and API test automation in Java — Selenium, Cucumber (BDD), TestNG, REST Assured — wired into CI/CD so regressions never reach production
+- 🛠️ **Before this:** SDET at Our National Conversation (ONC) and software engineer / test automation at O! (mobile operator, Bishkek)
+- 🎓 **Education:** B.S. in Computer Science, National Louis University
+- 💬 **Ask me about:** test strategy, BDD, API testing, microservice architecture, or anything Java/Spring
+- 📫 **Reach me:** [atakubanychbek@gmail.com](mailto:atakubanychbek@gmail.com)
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.facebook.com/atabek.kubanychbek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Issakunov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/issakunov_jr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/atabek-kubanychbek-uulu-7a9785223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## 🧰 Tech stack
 
-### Badges
+**Test automation & QA**
 
-<b>My GitHub Stats</b>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-1C1917?style=for-the-badge)
+![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-<a href="http://www.github.com/Issakunov"><img src="https://github-readme-stats.vercel.app/api?username=Issakunov&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Issakunov's GitHub stats" /></a>
+**Backend**
 
-<a href="http://www.github.com/Issakunov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Issakunov&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,nodejs,postgres,mysql,mongodb,firebase&perline=9" alt="Backend skills" /></a>
 
-<a href="http://www.github.com/Issakunov"><img src="https://activity-graph.herokuapp.com/graph?username=Issakunov&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+**Frontend**
 
-<a href="https://github.com/Issakunov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issakunov&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass,bootstrap,jquery&perline=9" alt="Frontend skills" /></a>
+
+**DevOps & tools**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,jenkins,linux,bash,idea,postman&perline=10" alt="DevOps & tools" /></a>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<a href="https://github.com/atakuba">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=atakuba&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1c1917&title_color=a855f7&text_color=ffffff&icon_color=22c55e" alt="atakuba's GitHub stats" />
+</a>
+<a href="https://github.com/atakuba">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakuba&layout=compact&langs_count=8&hide_border=true&bg_color=1c1917&title_color=a855f7&text_color=ffffff&custom_title=Top%20Languages" alt="Top languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/atakuba">
+  <img src="https://streak-stats.demolab.com?user=atakuba&hide_border=true&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/atakuba">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atakuba&bg_color=1c1917&color=ffffff&line=22c55e&point=a855f7&area=true&area_color=1c1917&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+🌎 Chicago, IL &nbsp;•&nbsp; Open to interesting SDET / backend problems &nbsp;•&nbsp; <a href="https://www.linkedin.com/in/atabek-kubanychbek-uulu-7a9785223/">Let's connect</a>
+
+</div>
